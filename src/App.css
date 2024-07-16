@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+/* App.css */
+body.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.news-card.dark-mode {
+  background-color: #303030;
+  color: white;
+}
+

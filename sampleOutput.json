@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren Said-Moorhouse",
+            "title": "Ukrainian children’s hospital attacked as Russian strikes on cities kill at least 31 - CNN",
+            "description": "Russian missile strikes hit targets in cities across Ukraine on Monday, including a children’s hospital in Kyiv, killing at least 31 people, authorities say.",
+            "url": "https://www.cnn.com/2024/07/08/europe/ukraine-russian-strike-childrens-hospital-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-07-08t091218z-886743662-rc2xq8aye5gi-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-08T17:32:00Z",
+            "content": "A Russian missile strike partially destroyed a childrens hospital in Kyiv on Monday, causing terrified patients and their families to flee for their lives, as officials fear more people could be trap… [+7964 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Christian Shepherd, Gerry Shih",
+            "title": "With Viktor Orban in China pushing cease-fire, Russian missiles slam Ukraine - The Washington Post",
+            "description": "As Hungary’s Viktor Orban pushed for a Ukraine cease-fire, Russian missile strikes hit a children’s hospital in Kyiv and killed at least 21 across the country.",
+            "url": "https://www.washingtonpost.com/world/2024/07/08/modi-orban-putin-china-russia-india/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2FNQW642DLW5GRWNUMJRD5SIA.jpg&w=1440",
+            "publishedAt": "2024-07-08T17:00:33Z",
+            "content": "Hungarian Prime Minister Viktor Orban made a surprise visit to Beijing on Monday where Chinese leader Xi Jinping called for a global effort to push Russia and Ukraine toward a cease-fire and praised … [+8743 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MORGAN LEE",
+            "title": "‘Rust’ shooting trial: Pretrial hearing sets stage for Alec Baldwin’s arrival in court - The Associated Press",
+            "description": "A New Mexico judge has decided that actor Alec Baldwin’s role as co-producer isn’t relevant to the involuntary manslaughter trial over a fatal shooting on the set of the Western film “Rust.” The actor has appeared in court Monday for a pretrial hearing over a…",
+            "url": "https://apnews.com/article/alec-baldwin-trial-rust-shooting-movie-7111ebd9d360a261eade601b5e4ec297",
+            "urlToImage": "https://dims.apnews.com/dims4/default/5bd2875/2147483647/strip/true/crop/4000x2250+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbc%2Fce%2F076e3b1ef16de45a58d6cedbd5dc%2F2ee5c8590f40495c9d2b14a6b0fcc681",
+            "publishedAt": "2024-07-08T16:57:00Z",
+            "content": "A New Mexico judge decided Monday that actor Alec Baldwins role as co-producer isnt relevant to the involuntary manslaughter trial over a fatal shooting on the set of the Western film Rust.\r\nJudge Ma… [+4820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Vikings rookie cornerback Khyree Jackson dies in car accident at 24 - CBS Sports",
+            "description": "Oregon's Jackson was selected in the fourth round of the 2024 NFL Draft in April",
+            "url": "https://www.cbssports.com/nfl/news/vikings-rookie-cornerback-khyree-jackson-dies-in-car-accident-at-24/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/06/a5004849-27e0-4285-bdac-3e1973681d8b/thumbnail/1200x675/5304ad79ccead4f0651f77e91adc360c/jackson-getty.jpg",
+            "publishedAt": "2024-07-08T16:15:00Z",
+            "content": "Minnesota Vikings rookie cornerback Khyree Jackson has died in a car accident, the team announced Saturday. He was 24 years old. Jackson was selected by Minnesota out of Oregon in the fourth round of… [+1804 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KPRC Click2Houston"
+            },
+            "author": "Caroline Brown, Justin Stapleton, Daji Aswad, Amanda Goluszka",
+            "title": "Tropical Storm Beryl pushes through SE Texas with heavy rain, strong winds - KPRC Click2Houston",
+            "description": "Tropical bands will become more widespread as Beryl makes landfall Monday morning.",
+            "url": "https://www.click2houston.com/weather/2024/07/07/beryls-rainfall-timeline-for-se-texas/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/NALB2SP3SBCRHCBGAVQTNORH74.jpg?_a=ATAPphC0",
+            "publishedAt": "2024-07-08T15:40:27Z",
+            "content": "As of 10 a.m., Beryl has weakened back to tropical storm status with maximum sustained winds of 70 mph. The next advisory from the National Hurricane Center will be at 1 p.m. Beryl made landfall at M… [+3298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Biden tells Democrats he is 'firmly committed' to staying in the race - BBC.com",
+            "description": "The letter comes as more senior Democrats voice concerns about the president's fitness to win the election.",
+            "url": "https://www.bbc.com/news/articles/c2q0x3ekeezo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5318/live/0d9fdd50-3d0b-11ef-a12e-fbb463384a1f.jpg",
+            "publishedAt": "2024-07-08T15:39:00Z",
+            "content": "By James FitzGerald &amp; Bernd Debusmann Jr in Washington, BBC News\r\nUS President Joe Biden has promised he will be \"running this race to the end\" of the November election, despite private calls fro… [+4542 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Emily Rauhala",
+            "title": "NATO’s 75th anniversary summit in Washington clouded by political chaos - The Washington Post",
+            "description": "President Biden hosts a celebratory alliance summit in Washington, but the specter of Trump and right-wing populism in Europe looms over proceedings.",
+            "url": "https://www.washingtonpost.com/world/2024/07/08/nato-summit-biden-trump-ukraine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PUSI53NEOCU4APMRWA5443PGE.jpg&w=1440",
+            "publishedAt": "2024-07-08T15:03:51Z",
+            "content": "This weeks NATO summit in Washington was supposed to be a celebration.\r\nSeventy-five years after its founding, the alliance is bigger and more relevant than its been in decades. Transatlantic ties ar… [+6980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCRA Sacramento"
+            },
+            "author": "Jonathan Ayestas",
+            "title": "Northern California heat wave forecast: Triple digits continue Monday - KCRA Sacramento",
+            "description": "Monday marks day nine of triple-digit heat in Northern California.",
+            "url": "https://www.kcra.com/article/northern-california-forecast-heat-wave-july-8-2024/61532261",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/89edbc11-7533-49ea-a733-bfbfaecea94f/390087d1-83ce-400a-8162-ac89728a422e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2024-07-08T14:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "LORI HINNANT, SYLVIE CORBET",
+            "title": "France elections 2024: Macron refuses Prime Minister Attal's resignation - The Associated Press",
+            "description": "French President Emmanuel Macron has refused the resignation of the country’s prime minister, asking him to remain temporarily as the head of the government after chaotic election results left the government in limbo. French voters split the legislature on th…",
+            "url": "https://apnews.com/article/france-elections-right-left-macron-32fe723ea2a592e7ce243f68a89729a2",
+            "urlToImage": "https://dims.apnews.com/dims4/default/084970b/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2c%2F46%2F7a25dfe1f8fa5f619012577d7ade%2F58b7661f4240424daba20ee93ef5c9c7",
+            "publishedAt": "2024-07-08T14:44:00Z",
+            "content": "PARIS (AP) French President Emmanuel Macron refused the resignation of the countrys prime minister, asking him on Monday to remain temporarily as the head of the government after chaotic election res… [+5300 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Tom Ignudo, Raymond Strickland",
+            "title": "Andrea Lawful-Sanders, WURD Radio part ways after she used questions provided by Biden's campaign - CBS News",
+            "description": "Sara M. Lomax, the president and CEO of WURD, said the radio station is \"not a mouthpiece\" for Biden or any other administration.",
+            "url": "https://www.cbsnews.com/philadelphia/news/andrea-lawful-sanders-wurd-radio-biden-in-philadelphia/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/08/adb1cc37-4a51-457b-938c-5751697997d6/thumbnail/1200x630/ebbc669b59b9f94d5ab00aac6cf2acd8/23pkg-rs-biden-wurd-interview-fallout-transfer-frame-600.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+            "publishedAt": "2024-07-08T14:25:18Z",
+            "content": "PHILADELPHIA (CBS) -- A Philadelphia radio host who said she used questions prepared by President Biden's campaign in a post-debate interview parted ways with WURD, the station's president and CEO an… [+3075 chars]"
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": "By  RIKKI ZAGELBAUM",
+            "title": "The largest password leak in history exposes nearly 10 billion credentials - The Jerusalem Post",
+            "description": "In response to the leak, they recommend immediately changing the passwords for any accounts associated with the leaked credentials, ensuring each password is strong and unique and not reused.",
+            "url": "https://www.jpost.com/business-and-innovation/article-809428",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/533307",
+            "publishedAt": "2024-07-08T12:13:20Z",
+            "content": "The largest collection of stolen passwords ever has been leaked to a notorious crime marketplace, according to cybersecurity researchers at Cybernews. \r\nThis leak, dubbed RockYou2024 by its original … [+2953 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Greg Norman",
+            "title": "Netanyahu's 4 principles Israel agrees to for hostage deal as negotiations pick up - Fox News",
+            "description": "Israeli Prime Minister Benjamin Netanyahu's office has announced the four principles that it says must be included in any hostage release deal with Hamas.",
+            "url": "https://www.foxnews.com/world/netanyahus-4-principles-israel-agrees-hostage-deal-negotiations-pick-up",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Israel-tanks-Gaza.jpg",
+            "publishedAt": "2024-07-08T12:13:00Z",
+            "content": "The office of Israeli Prime Minister Benjamin Netanyahu has announced four principles that it says must be part of any hostage release deal with the Palestinian terrorist group Hamas. \r\nThe declarati… [+2953 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Boeing to plead guilty in DOJ case tied to deadly 737 Max crashes - Yahoo Finance",
+            "description": null,
+            "url": "https://finance.yahoo.com/news/boeing-to-plead-guilty-in-doj-case-tied-to-deadly-737-max-crashes-120956161.html",
+            "urlToImage": null,
+            "publishedAt": "2024-07-08T12:09:56Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Francesca Bacardi",
+            "title": "Bethenny Frankel calls ex-fiancé Paul Bernon's new romance with Aurora Culpo 'gutting': 'It's embarrassing' - Page Six",
+            "description": "“I think by sharing all the details of your new relationship, you’re disrespecting the last relationship,” the former “RHONY” star shared on her podcast.",
+            "url": "https://pagesix.com/2024/07/08/entertainment/bethenny-frankel-addresses-paul-bernons-new-romance-with-aurora-culpo/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/07/85127482.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-07-08T11:54:00Z",
+            "content": "Bethenny Frankel finally opened up about her breakup with Paul Bernon. bethennyfrankel/Instagram\r\nBethenny Frankel finally addressed her breakup with ex-fiancé Paul Bernon.\r\nThe “Real Housewives of N… [+3431 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Beatrice Nolan",
+            "title": "The Apple Watch is reportedly getting a birthday makeover - Business Insider",
+            "description": "The watch is approaching its 10th birthday, and Apple is planning a revamp to make the device thinner but with larger displays, Bloomberg reported.",
+            "url": "https://www.businessinsider.com/apple-watch-revamp-tenth-anniversary-thinner-larger-display-apple-intelligence-2024-7",
+            "urlToImage": "https://i.insider.com/668bc8521aace5b3ada4ec41?width=1200&format=jpeg",
+            "publishedAt": "2024-07-08T11:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ALEX VEIGA AP business writer",
+            "title": "The US housing slump deepened this spring. Where does that leave home shoppers and sellers? - ABC News",
+            "description": "The nation’s housing market sales slump is dragging on into its third straight year, as evidenced by another weak spring homebuying season",
+            "url": "https://abcnews.go.com/Business/wireStory/us-housing-slump-deepened-spring-leave-home-shoppers-111740149",
+            "urlToImage": "https://i.abcnewsfe.com/a/da868da5-91b9-45ea-825b-a6ffde1011b2/wirestory_bdd1399e1726e2ca17b622ea48067541_16x9.jpg?w=1600",
+            "publishedAt": "2024-07-08T11:46:11Z",
+            "content": "LOS ANGELES -- The housing market shows few signs of busting out of its three-year funk after a disappointing spring season and amid a gloomy outlook for the summer and fall.\r\nHome shoppers came into… [+4991 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "‘Stark warning’ as global temperatures hit record levels for 13th month - Al Jazeera English",
+            "description": "It has been 12 straight months that the world has been more than 1.5 degrees Celsius hotter than pre-industrial levels.",
+            "url": "https://www.aljazeera.com/news/2024/7/8/stark-warning-as-global-temperatures-hit-record-levels-for-13th-month",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/11/AP238536530554.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-07-08T11:37:30Z",
+            "content": "Global temperatures were at record high levels in June for a 13th consecutive month, according to data by the European climate service Copernicus, which is raising the alarm over the warming climate.… [+2326 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Jeff Carlisle",
+            "title": "Mihailovic, Robinson, Zimmerman in U.S. Olympic men's soccer team - ESPN",
+            "description": "Colorado Rapids' Djordje Mihailovic, FC Cincinnati's Miles Robinson and Nashville's Walker Zimmerman headline the 18-player men's U.S. Olympic team roster as the three \"overage\" players.",
+            "url": "https://www.espn.com/soccer/story/_/id/40518702/mihailovic-robinson-zimmerman-us-olympic-soccer-team",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0407%2Fr996597_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-08T11:30:00Z",
+            "content": "Colorado Rapids midfielder Djordje Mihailovic, FC Cincinnati defender Miles Robinson and Nashville defender Walker Zimmerman headline the 18-player roster for the United States men's Olympic team nam… [+5379 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motorsport.com"
+            },
+            "author": "Jake Boxall-Legge",
+            "title": "Seven things we learned at the 2024 British Grand Prix - Motorsport.com",
+            "description": "Lewis Hamilton's first Formula 1 win in 945 days might have headlined this year's rain-affected British Grand Prix, but the rest of the weekend burst at the seams with plotlines and announcements. Here's the biggest stories that emerged in this year's Silvers…",
+            "url": "https://www.motorsport.com/f1/news/seven-things-we-learned-at-the-2024-british-grand-prix/10633073/",
+            "urlToImage": "https://cdn-7.motorsport.com/images/amp/YBeO1Pz2/s6/max-verstappen-red-bull-racing.jpg",
+            "publishedAt": "2024-07-08T11:16:40Z",
+            "content": "The \"classic British summer\" jibes aside, the British Grand Prix weekend faced an atypical barrage of cold and inclement weather - it felt more like a February's half-hearted release of the winter's … [+12879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        }
+    ]
+}
